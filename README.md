@@ -36,12 +36,12 @@ This repository contains a Tableau dashboard project focused on sales and custom
 
 ## Credits
 
-- Dashboard created by [Your Name]
-- Data and documentation by [Your Name]
+- Dashboard created by [Pappu veera venkata Prasad]
+- Data and documentation by [Pappu veera venkata Prasad]
 
 ## Contact
 
-For any questions or collaboration, connect via [LinkedIn](your-linkedin-url).
+For any questions or collaboration, connect via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/veera-venkata-prasad-pappu?utm_source=share_via&utm_content=profile&utm_medium=member_android)).
 
 
 
